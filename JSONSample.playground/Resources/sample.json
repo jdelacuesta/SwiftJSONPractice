@@ -1,0 +1,11 @@
+{
+  "name": "Jane Doe",
+  "age": 28,
+  "isStudent": true,
+  "address": {
+    "street": "456 Main St",
+    "city": "Los Angeles",
+    "zipCode": "90001"
+  },
+  "hobbies": ["Reading", "Traveling", "Cooking"]
+}
